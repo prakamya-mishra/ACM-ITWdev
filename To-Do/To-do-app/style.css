@@ -1,0 +1,20 @@
+.jumbotron {
+    margin-top: 30px;
+    margin-bottom: 15px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    text-align: center;
+    padding: 30px;
+}
+
+.badge-primary {
+background-color: red;
+}
+
+span {
+cursor: pointer;
+}
+
+span:hover {
+background:grey;
+}
